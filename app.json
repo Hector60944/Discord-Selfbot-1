@@ -1,1 +1,11 @@
-placeholder
+{
+  "name": "francis selfbot",
+  "description": "Reee",
+  "repository": "https://github.com/Brunph/Discord-Selfbot",
+  "env": {
+    "TOKEN": {
+        "description": "Your discord bot's token.",
+        "required": true
+    }
+  }
+}
